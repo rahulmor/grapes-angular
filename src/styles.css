@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background-color: #e6eaed;
+}
+
+.gjs-cv-canvas {
+    top: 0!important;
+    width: 100%!important;
+    height: 100%!important;
+  }
+  .gjs-editor-cont {
+    width: 320px!important;
+    height: 250px!important;
+  }
